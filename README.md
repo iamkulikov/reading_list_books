@@ -3,7 +3,7 @@
 
 [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017),  [все годы на Livelib](https://www.livelib.ru/reader/iamkulikov)
 
-Списки любимых на все времена: [Научпоп](top_nuachpop.md), [Математика](top_maths.md), [Путевые дневники](top_traveldiary.md), [Экономика](top_economics.md), [Другой нон-фикшн](top_nonfict.md), [Фантастика](top_fantastic.md), [Современная художка](top_modernfiction.md), [Крутое старье](top_old.md)
+Списки любимых на все времена: [Научпоп](top_nauchpop.md), [Математика](top_maths.md), [Путевые дневники](top_traveldiary.md), [Экономика](top_economics.md), [Другой нон-фикшн](top_nonfict.md), [Фантастика](top_fantastic.md), [Современная художка](top_modernfiction.md), [Крутое старье](top_old.md)
 
 ## 2022
 
