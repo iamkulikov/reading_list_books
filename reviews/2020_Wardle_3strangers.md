@@ -1,6 +1,6 @@
 # "Three identical strangers", Tim Wardle
 
-[Все книги](../README.md)
+[<< Все книги](../README.md)
 
 ## Рецензия
 

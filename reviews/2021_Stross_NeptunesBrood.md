@@ -1,6 +1,6 @@
 # "Neptune's Brood", Charles Stross
 
-[Все книги](../README.md)
+[<< Все книги](../README.md)
 
 ## Рецензия
 
