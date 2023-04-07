@@ -8,7 +8,7 @@
 
 ## 2023
 
-### ["Замки, битвы и бомбы", Юрген Брауэр, Хуберт ван Туйль](reviews/2023_BrauerTuyll_CastlesBatlesBombs.md)
+### ["Замки, битвы и бомбы", Юрген Брауэр, Хуберт ван Туйль](reviews/2023_BrauerTuyll_CastlesBattlesBombs.md)
 
 
 ### "Оккульттрегер", Алексей Сальников
