@@ -8,6 +8,9 @@
 
 ## 2023
 
+### ["Путь человечества. Истоки богатства и неравенства", Одед Галор](reviews/2023_Galor_JourneyOfHumanity.md)
+
+
 ### ["Замки, битвы и бомбы", Юрген Брауэр, Хуберт ван Туйль](reviews/2023_BrauerTuyll_CastlesBattlesBombs.md)
 
 
