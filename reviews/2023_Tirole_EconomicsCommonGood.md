@@ -10,11 +10,15 @@
 
 1. We must all take responsibility for our limited understanding of economic phenomena, our desire to believe what we want to believe, our relative intellectual laziness, and our cognitive biases.
 
-2. Departures from laissez-faire economics are often needed to capture the benefits of the market. Market must not trivialize some goods ans services (because of the percieved immorality of buying and selling some things), but regulation is often an answer. Market failure is often confused with the moral limits of the market. The regulation or prohibition of a market can be a response to a problem of information (monetization of good destroys its value by altering meaning), externality or an internality (behavior of an individual conflicts with his own future interest). 
+2. Departures from laissez-faire economics are often needed to capture the benefits of the market. Market must not trivialize some goods ans services (because of the percieved immorality of buying and selling some things), but regulation is often an answer. Market failure is often confused with the moral limits of the market. The regulation of a market can be a response to a problem of information (monetization of good destroys its value by altering meaning), externality or an internality (behavior of an individual conflicts with his own future interest), as well as prohibition. 
 
-3. 
+3. Economists in different guises are surrounded by dangers of loosing integrity because of conflict of interest.
 
-4.
+4. Research in economics is based on back and forth movement between theory and experience, methodology and applications, evaluation of papers, evolving consensus after a debate, mathematics (to provide language and check applicability) and new conceptual tools (information theory and game theory). Interdisciplinary research remains an important source of progress even though specialization is inevitable.
+
+5. There are lots of empirically established behavior patterns which make real people different from Homo Economicus. At least: procrastination (short-termism), mistakes in estimating risk, empathy (internalizing well-being of others), self-image matters, homo socialis (group perception may affect individual behavior), e.t.c. The reunification of social sciences happen.
+
+6. 
 
 
 ## Находки
@@ -25,7 +29,7 @@
 
 3. Three kinds of writing about economics (Paul Krugman): greek-letter (models), up-down (short-term problems) and airport (about everything at once).
 
-4. The carryover effect (leakage problem) - activities tend to migrate to places with more lemient regulation.
+4. The carryover effect (leakage problem) - activities tend to migrate to places with more lenient regulation.
 
 5. The bias toward identifiable victim. In medicine secondary effects usually affect those who are treated. In economics - usually others are affected.
 
@@ -41,13 +45,42 @@
 
 10. Who would really regret the disappearance of the strongest social bonds that have ever existed: those between a slave and his master, between a wife and her all-powered husband, between a worker and a monopsonistic employer, or - to return to a lighter example - the bond between our villager and his not very talented baker?
 
+11. ... the market is sometimes made a scapegoat for our own hypocrisy. Even when it neither strengthens nor weakens our social bonds, the market becomes a mirror to our souls that reflects realities of our societies, facets of our aspirations, and preferences that we would rather conceal - from ourselves as well as others.
+
+12. ... beliefs about what determines income and wealth, which clearly affect the choices made about taxation and social protection, are in part endogenous. (US - 30% believe that success is due to chance, Europeans - 54%).
+
+13. This is the world of "self-fulfilling prophecies" and "multiple equilibria"...
+
+14. About training in economics, which may change behaviour. All these influences create narratives that, however valid empirically provide (weak) excuses for less ethical behavior.
+
+15. Greek poet Archilochus: "The fox knows many things, but the hedgehog know one big thing".
+
+16. Brief introduction to contract theory. The contract has to be founded on a set of credible rewards and punishments. It also need to be flexible enough to reflect changing information, notably becuase things will inevitably occur could not be predicted at the time the contract was signed. Thus, methods for renegotiating or even breaking the contract must be provided, notably exit options and rules for calculating indemnities. Finally, in the absence of formal incentive mechanisms, trade must rely on a more informal relationship between the two parties, in which the repetition of poor performance by one makes the other suspicious and leads to a loss of confidence and cooperation.
+
+17. Societies that involve a high level of exchange (and thus do not have a way of life centered on the family) seem to be more cooperative in experiments with reciprocal altruism. "In search of homo economicus: behavioral experiments in 15 small-scale economies".
+
+18. Altruism is fragile. Some people tend to not get in the situation, where they may be forced to be "good" by their future self. 
+
+19. Short-termism may be explained by the fact that we feel pain and pleasure even before the actual experience. Therefore lack of concern and mistakes in risk assessment may lead to happier (but shorter) life. 
+
+20. Defending the collective reputation entails an entirely private cost but a benefit that is shared by the whole community. This is why there is tendency toward free-riding.
+
+21. Loss of reputation by the society may be self-fulfilling.
+
 
 ## Мои идеи
 
-1. 
+1. "Коллективное" решение для всех Я из разных времен. Механизм.
 
-2.
+2. Общества с меньшими размерами семей проявляют меньше доверия и альтруизма к "внешним" не только из-за бедности? 
 
+3. "Irrelevant alternatives" всегда влияют - это контекст.
+
+4. 
+
+5.
+
+6.  
 
 ## Теги
 
