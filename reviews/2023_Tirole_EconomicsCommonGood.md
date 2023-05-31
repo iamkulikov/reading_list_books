@@ -18,7 +18,9 @@
 
 5. There are lots of empirically established behavior patterns which make real people different from Homo Economicus. At least: procrastination (short-termism), mistakes in estimating risk, empathy (internalizing well-being of others), self-image matters, homo socialis (group perception may affect individual behavior), e.t.c. The reunification of social sciences happen.
 
-6. 
+6. Although one of the government's roles is to fight market failures, state itself has some failure like being captured by special interests at the expense of the collective interest, having reelection as a primary goal etc. With some stretch market and government correct each others failures. Independent agencies are needed to isolate long-term goals and policies from the electoral cycle. When markets are failing, the modern state regulates. It assumes the responsibility for creating equality and opportunity, healthy competition, and a financial system not dependent on bailouts using public money. It finds a way of making economic actors act responsibly with regard to environment, of establishing equality in health insurance coverage, of ensuring protection for employees who do not have an information that would empower them. In its operations it is nimble and reactive. Reforms of the state are possible.
+
+7.
 
 
 ## Находки
@@ -66,6 +68,10 @@
 20. Defending the collective reputation entails an entirely private cost but a benefit that is shared by the whole community. This is why there is tendency toward free-riding.
 
 21. Loss of reputation by the society may be self-fulfilling.
+
+22. Nice classification of market failure causes: externalities, exchange without full knowledge and consent, buyers become victims of their own actions, exchabge may exceed individual capacities (when continuous relation needs monitoring, for example), excessive market power, market may generate excessive inequality.
+
+23. Example of Sweden's downscaling of the government in the 90s: public expenditure down by 10 pps of GDP, government officials down from 400000 to 250000.
 
 
 ## Мои идеи
