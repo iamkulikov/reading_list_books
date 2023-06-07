@@ -20,7 +20,9 @@
 
 6. Although one of the government's roles is to fight market failures, state itself has some failure like being captured by special interests at the expense of the collective interest, having reelection as a primary goal etc. With some stretch market and government correct each others failures. Independent agencies are needed to isolate long-term goals and policies from the electoral cycle. When markets are failing, the modern state regulates. It assumes the responsibility for creating equality and opportunity, healthy competition, and a financial system not dependent on bailouts using public money. It finds a way of making economic actors act responsibly with regard to environment, of establishing equality in health insurance coverage, of ensuring protection for employees who do not have an information that would empower them. In its operations it is nimble and reactive. Reforms of the state are possible.
 
-7.
+7. Investor ownership and control are widespread around the world because they win the competition. Corporate social responsibility, socially responsible investment, and fair trade are compatible with a market economy. They represent a response that is both decentralized and partial (because of the free rider problem) to the question of how to provide certain public goods. There will be less of that if the state was truly benevolent and effective.
+
+8. Climate policy failures are the tragedy of commons: economic agents do not internalize the damage they cause by emitting GHGs. The green imperative will be respected if the economic imperative is also respected. Both require a global approach and a pricing mechanism.
 
 
 ## Находки
@@ -41,7 +43,7 @@
 
 8. Examples of public policy which correct market failures: competition law, sectoral and prudential regulation, taxes on environmental externalities, fees to reduce traffic, monetary policy and financial stabilization, mechanisms for providing "merit goods" such as education and healthcare, income redistribution.
 
-8. When the flame of indignation burns brightly, people use moral arguments to impose their own value judgements and reduce the freedom of others. Who is the victim? What is the basis of yor belief? Can anything other than your own indignation justify infringing the freedom of others?
+8. When the flame of indignation burns brightly, people use moral arguments to impose their own value judgements and reduce the freedom of others. Who is the victim? What is the basis of your belief? Can anything other than your own indignation justify infringing the freedom of others?
 
 9. Tossing or catapulting little people was prohibited (France - 1995, Florida - 1989), because it affects not only those who consented but also the image of others.
 
@@ -73,10 +75,24 @@
 
 23. Example of Sweden's downscaling of the government in the 90s: public expenditure down by 10 pps of GDP, government officials down from 400000 to 250000.
 
+24. The mode of organization we observe is therefore the result of competition between different governance models (if this competition is not distorted by fiscal or regulatory incentives favoring a particular form). So we might be surprised that economic activity is overwhelmingly organized around firms that entrust supervisory rights to a single stakeholder - the investors, to whom the management is  formally accountable.
+
+25. Examples of capitalist management dysfunctions: tenuous connection between company's performance and the remuneration of its managers, cases of dividends being paid shortly before declaring bankruptcy, accounting manipulations, short-term thinking to the detriment of long-term profitability, and insider trading.
+
+26. A professional services company like KPMG is composed essentially of human capital, and can operate as a cooperative, whereas the companies with greatest need for finance will tend to give control to their investors.
+
+27. Clawback provision specifies that any reward that has been given out may be returned in special circumstances.
+
+28. Economic policy is distorted by what is visible and what is not so visible.
+
+29. The enthusiasm for top-down approaches (uniform reductions, limits and standards in climate policy) originates in governments's desire to appear to be doing to tackle climate change.
+
+30. 
+
 
 ## Мои идеи
 
-1. "Коллективное" решение для всех Я из разных времен. Механизм.
+1. "Коллективное" решение для всех Я из разных времен. Нужен механизм!
 
 2. Общества с меньшими размерами семей проявляют меньше доверия и альтруизма к "внешним" не только из-за бедности? 
 
