@@ -103,7 +103,11 @@
 
 34. "No bailouts" is a part of the Maastricht treaty among 3% deficit and 60% debt.
 
-33. 62 violations
+35. US refused to bailout states since 1840 - resulted in some defaults (also Canada but no defaults). Brazil and Germany supported regions in 1980s. In the case of Germany and France this policy was partly responsible for the ERP's loss of credibility, because they secured cnages to the pact to avoid penalties.
+
+36. Brady bonds - negotiable instruments with a large discount to the initial debt. Provided a fresh start for the indebted countries in Latin America. The bonds were held by the previous creditors, the banks.
+
+37. There were 68 violations of the Stability and Growth Pact even before the financial crisis. And no interventions. 
 
 
 ## Мои идеи
