@@ -22,7 +22,13 @@
 
 7. Investor ownership and control are widespread around the world because they win the competition. Corporate social responsibility, socially responsible investment, and fair trade are compatible with a market economy. They represent a response that is both decentralized and partial (because of the free rider problem) to the question of how to provide certain public goods. There will be less of that if the state was truly benevolent and effective.
 
-8. Climate policy failures are the tragedy of commons: economic agents do not internalize the damage they cause by emitting GHGs. The green imperative will be respected if the economic imperative is also respected. Both require a global approach and a pricing mechanism.
+8. Climate policy failures are the tragedy of commons: economic agents do not internalize the damage they cause by emitting GHGs. The green imperative will be respected if the economic imperative is also respected. Both require a global approach and a pricing mechanism. The solution should be built around universal carbon price mechanism (to avoid leakages) with an independent monitoring infrastructure and negotiations of transfers to developing countries (to keep them in the agreement).
+
+9. Excessive rigidity of institutions creates excessive unemployment and vulnerabilty, and eventually social costs like imperfect matching, conflictual relationships and sense of job insecurity. Employers are not fully accountable for the costs of dismissals. Unemployment benefits shouldn't be funded by the companies who keep employment. The employee, not the job, has to be protected. Courts should play smaller role (everything mostly about France). Main challenges for labor markets: technological change, immigration, public finnces.
+
+10. Monetary union of EA lacks labor mobility and automatic fiscal transfers. One cannot simultaneously insist on more sovereignty and greater risk sharing. The problem initially emerged as southern countries started loosing competitiveness (on wages) and eventually accumulated to much public and private debt. The way forward for Europe is probably the revision of Maastricht approach, accompanied by limited integration in specific areas using the model of the banking union.
+
+11. 
 
 
 ## Находки
@@ -87,7 +93,17 @@
 
 29. The enthusiasm for top-down approaches (uniform reductions, limits and standards in climate policy) originates in governments's desire to appear to be doing to tackle climate change.
 
-30. 
+30. Positive correlation between legislation protecting jobs and stress at work. How universal and is it causal?
+
+31. British pound exited ERM in 1992 following a speculative attack by George Soros's Quantum Fund.
+
+32. Euro in the "we might as well go all the way" logic.
+
+33. Potential substitutes for the currency devaluation are fiscal devaluation (more taxes) and internal devaluation (less salaries).
+
+34. "No bailouts" is a part of the Maastricht treaty among 3% deficit and 60% debt.
+
+33. 62 violations
 
 
 ## Мои идеи
@@ -98,9 +114,9 @@
 
 3. "Irrelevant alternatives" всегда влияют - это контекст.
 
-4. 
+4. Откуда вообще пошел термин "дедушкина оговорка"?
 
-5.
+5. Если реформа не воспринимается, как бесповоротная и credible в широком смысле, то никто и не будет в ней участвовать.
 
 6.  
 
