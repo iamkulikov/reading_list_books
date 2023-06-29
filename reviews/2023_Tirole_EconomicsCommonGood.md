@@ -26,10 +26,11 @@
 
 9. Excessive rigidity of institutions creates excessive unemployment and vulnerabilty, and eventually social costs like imperfect matching, conflictual relationships and sense of job insecurity. Employers are not fully accountable for the costs of dismissals. Unemployment benefits shouldn't be funded by the companies who keep employment. The employee, not the job, has to be protected. Courts should play smaller role (everything mostly about France). Main challenges for labor markets: technological change, immigration, public finnces.
 
-10. Monetary union of EA lacks labor mobility and automatic fiscal transfers. One cannot simultaneously insist on more sovereignty and greater risk sharing. The problem initially emerged as southern countries started loosing competitiveness (on wages) and eventually accumulated to much public and private debt. The way forward for Europe is probably the revision of Maastricht approach, accompanied by limited integration in specific areas using the model of the banking union.
+10. Monetary union of EA lacks labor mobility and automatic fiscal transfers. One cannot simultaneously insist on more sovereignty and greater risk sharing. The problem initially emerged as southern countries started loosing competitiveness (on wages) and eventually accumulated too much public and private debt. The way forward for Europe is probably the revision of Maastricht approach, accompanied by limited integration in specific areas using the model of the banking union.
 
-11. 
+11. Financial market mediates between badly informed savers and borrowers (big asymmetry) and connects many actors which creates lots of externalities. This is why the heavy regulation is needed.
 
+12. 
 
 ## Находки
 
@@ -69,7 +70,7 @@
 
 17. Societies that involve a high level of exchange (and thus do not have a way of life centered on the family) seem to be more cooperative in experiments with reciprocal altruism. "In search of homo economicus: behavioral experiments in 15 small-scale economies".
 
-18. Altruism is fragile. Some people tend to not get in the situation, where they may be forced to be "good" by their future self. 
+18. Altruism is fragile. Some people tend to not get in the situation, where they may be forced to be "good" by their future self.
 
 19. Short-termism may be explained by the fact that we feel pain and pleasure even before the actual experience. Therefore lack of concern and mistakes in risk assessment may lead to happier (but shorter) life. 
 
@@ -109,6 +110,20 @@
 
 37. There were 68 violations of the Stability and Growth Pact even before the financial crisis. And no interventions. 
 
+38. Over-the-counter products are complex, sometimes intentionally so.
+
+39. ... what is described as "financial innovation" is often no more than a way of getting around the rules and esxposing small investors or taxpayers to major unwanted risks ...
+
+40. Profits are privatized and losses are socialized.
+
+41. "Gambling for resurrection" - taking more and more risks to save non-zero chances of non-failing (potentially leading to a n even bigger fail).
+
+42. Whenever there are asymmetries of information among the participants, financial markets are not as liquid as they should be.
+
+43. Prior the 2008 crisis the five major investment banks were monitored by a grand total of six people (insufficient regulation).
+
+44. 
+
 
 ## Мои идеи
 
@@ -122,7 +137,9 @@
 
 5. Если реформа не воспринимается, как бесповоротная и credible в широком смысле, то никто и не будет в ней участвовать.
 
-6.  
+6. Коллективная иррациональность - это хрень, просто жаргон для неудачного исхода.
+
+7. 
 
 ## Теги
 
