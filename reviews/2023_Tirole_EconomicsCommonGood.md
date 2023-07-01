@@ -30,9 +30,22 @@
 
 11. Financial market mediates between badly informed savers and borrowers (big asymmetry) and connects many actors which creates lots of externalities. This is why the heavy regulation is needed.
 
-12. 
+12. The financial crisis of 2008 happened because of the inadequate regulation and laxity in enforcement + the context had never been so favorable to taking risks. As a result before the downturn there were excessive securitization, excessive maturity transformation and not enough capital. The policy should have been countercyclical rather than procyclical, governements should have helped insure that there was symmetric information between lenders and borrowers about the risks.
+
+13. 
+
+14.
+
+15.
+
+16.
+
+17.
+
 
 ## Находки
+
+**Do you like economics?**
 
 1. Even so, the market economy has achieved only partial victory, because it has won neither hearts or minds.
 
@@ -41,6 +54,8 @@
 3. Three kinds of writing about economics (Paul Krugman): greek-letter (models), up-down (short-term problems) and airport (about everything at once).
 
 4. The carryover effect (leakage problem) - activities tend to migrate to places with more lenient regulation.
+
+**The moral limits of the market**
 
 5. The bias toward identifiable victim. In medicine secondary effects usually affect those who are treated. In economics - usually others are affected.
 
@@ -62,7 +77,10 @@
 
 13. This is the world of "self-fulfilling prophecies" and "multiple equilibria"...
 
+
 14. About training in economics, which may change behaviour. All these influences create narratives that, however valid empirically provide (weak) excuses for less ethical behavior.
+
+**Economics on the move**
 
 15. Greek poet Archilochus: "The fox knows many things, but the hedgehog know one big thing".
 
@@ -78,9 +96,13 @@
 
 21. Loss of reputation by the society may be self-fulfilling.
 
+**Toward a modern state**
+
 22. Nice classification of market failure causes: externalities, exchange without full knowledge and consent, buyers become victims of their own actions, exchabge may exceed individual capacities (when continuous relation needs monitoring, for example), excessive market power, market may generate excessive inequality.
 
 23. Example of Sweden's downscaling of the government in the 90s: public expenditure down by 10 pps of GDP, government officials down from 400000 to 250000.
+
+**The governance and social responsibility of business**
 
 24. The mode of organization we observe is therefore the result of competition between different governance models (if this competition is not distorted by fiscal or regulatory incentives favoring a particular form). So we might be surprised that economic activity is overwhelmingly organized around firms that entrust supervisory rights to a single stakeholder - the investors, to whom the management is  formally accountable.
 
@@ -90,11 +112,17 @@
 
 27. Clawback provision specifies that any reward that has been given out may be returned in special circumstances.
 
+**The climate challenge**
+
 28. Economic policy is distorted by what is visible and what is not so visible.
 
 29. The enthusiasm for top-down approaches (uniform reductions, limits and standards in climate policy) originates in governments's desire to appear to be doing to tackle climate change.
 
+**Labor market challenges**
+
 30. Positive correlation between legislation protecting jobs and stress at work. How universal and is it causal?
+
+**Europe at the crossroads**
 
 31. British pound exited ERM in 1992 following a speculative attack by George Soros's Quantum Fund.
 
@@ -112,6 +140,8 @@
 
 38. Over-the-counter products are complex, sometimes intentionally so.
 
+**What use is finance?**
+
 39. ... what is described as "financial innovation" is often no more than a way of getting around the rules and esxposing small investors or taxpayers to major unwanted risks ...
 
 40. Profits are privatized and losses are socialized.
@@ -122,7 +152,19 @@
 
 43. Prior the 2008 crisis the five major investment banks were monitored by a grand total of six people (insufficient regulation).
 
-44. 
+**The financial crisis of 2008**
+
+44. NINJA - no income, no job and no assets.
+
+45. State Aid Law in Europe prevents governments from subsidizing private businesses through implicit state guarantees.
+
+46. The ability to tap future into the future income of economic agents allows the state to issue national debt and to provide liquidity to the banking system.
+
+47. "Secular stagnation: Facts, Causes and Cures", CEPR Press
+
+**Competition policy and industrial policy**
+
+48.
 
 
 ## Мои идеи
