@@ -32,9 +32,9 @@
 
 12. The financial crisis of 2008 happened because of the inadequate regulation and laxity in enforcement + the context had never been so favorable to taking risks. As a result before the downturn there were excessive securitization, excessive maturity transformation and not enough capital. The policy should have been countercyclical rather than procyclical, governements should have helped insure that there was symmetric information between lenders and borrowers about the risks.
 
-13. 
+13. Even though industrial policies may not be always justified, they will still be introduced. Therefore it is better to at least make them non-harmful (Dani Rodrik): identify the reason for the market failure, use independent experts to choose projects, pay attention to the supply of research, try no to distort competition, evaluate interventions and introduce "sunset clauses", involve private sector in risk-taking (it signals overall viability), bear in mind that the structure of economy is evolving.
 
-14.
+14. Marketplaces and digital platforms generate two-sided markets. The provider has to know which side of the market is the most interested in the service (has the lowest elasticity of demand and therefore will pay more without ceasing to consume) and which side brings more value to the other side (externalities). Eventually platform has to have very low prices on the one side, enabling it to grow big and to earn revenue on the other side. Network effects and technological nature of platforms (and therefore higher economies of scale) stimulate their big size and monopolistic positions - therefore usually needs some regulation.
 
 15.
 
@@ -164,7 +164,36 @@
 
 **Competition policy and industrial policy**
 
-48.
+48. Nice classification of what state does in the market economy: public procurement, legislation and its execution, referee of the markets, regulator, financial supervisor, signatory of international treaties.
+
+49. France basically adopted pro-market stance of regulation only in 1986.
+
+50. Macron Law - partial liberalization of the intercity baus market. Example of a successful industrial policy.
+
+51. In France one quarter of consumer goods imports come from countries where wages are low. It creates a monthly gain of 100-300 euros.
+
+52. Some rationales for the industrial policy: difficulties of SMEs in raising funds, lack of R&D due to externalities, absence of coordination between complementary businesses. Examples of successfully supported projects: Airbus and Boeing, DARPA, South Korea and Taiwan, American universities.
+
+53. Industrial policy may not be beneficial because it's difficult to choose future winners and it is very difficult to stop public projects even when they are already obviously not effective.
+
+54. In Europe big industrial companies are sufficiently older than in US.
+
+**How digitization is changing everything**
+
+55. The prices of rare secondhand books, for which there is little demand, are often more expensive online, because those who actively search are ready to pay more than those who come across them by chance.
+
+56. Predatry prices (too low) vs abusive prices (too high).
+
+57. Platforms themselves act as regulators. They encourage competition among sellers, regulate prices, monitor quality and provide information (reputation and recommendation engines), also sometimes provide insurance.
+
+58. Non-obvious externality. If the platform enforces uniformity of price, its commission is passed to the third parties - those who don't use the platform. And this may be the market failure, not the asymmetric price structure.
+
+59. For platform regulation examples: see EU regulations of Visa and Master Card.
+
+**Digital economy: the challenges for society**
+
+60.
+
 
 
 ## Мои идеи
