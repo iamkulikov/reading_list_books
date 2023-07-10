@@ -8,39 +8,39 @@
 
 ## Основные идеи
 
-1. We must all take responsibility for our limited understanding of economic phenomena, our desire to believe what we want to believe, our relative intellectual laziness, and our cognitive biases.
+1. **Do you like economics?** We must all take responsibility for our limited understanding of economic phenomena, our desire to believe what we want to believe, our relative intellectual laziness, and our cognitive biases.
 
-2. Departures from laissez-faire economics are often needed to capture the benefits of the market. Market must not trivialize some goods ans services (because of the percieved immorality of buying and selling some things), but regulation is often an answer. Market failure is often confused with the moral limits of the market. The regulation of a market can be a response to a problem of information (monetization of good destroys its value by altering meaning), externality or an internality (behavior of an individual conflicts with his own future interest), as well as prohibition. 
+2. **The moral limits of the market.** Departures from laissez-faire economics are often needed to capture the benefits of the market. Market must not trivialize some goods ans services (because of the percieved immorality of buying and selling some things), but regulation is often an answer. Market failure is often confused with the moral limits of the market. The regulation of a market can be a response to a problem of information (monetization of good destroys its value by altering meaning), externality or an internality (behavior of an individual conflicts with his own future interest), as well as prohibition. 
 
-3. Economists in different guises are surrounded by dangers of loosing integrity because of conflict of interest.
+3. **The economist in civil society.** Economists in different guises are surrounded by dangers of loosing integrity because of conflict of interest.
 
-4. Research in economics is based on back and forth movement between theory and experience, methodology and applications, evaluation of papers, evolving consensus after a debate, mathematics (to provide language and check applicability) and new conceptual tools (information theory and game theory). Interdisciplinary research remains an important source of progress even though specialization is inevitable.
+4. **The everyday life of a researcher.** Research in economics is based on back and forth movement between theory and experience, methodology and applications, evaluation of papers, evolving consensus after a debate, mathematics (to provide language and check applicability) and new conceptual tools (information theory and game theory). Interdisciplinary research remains an important source of progress even though specialization is inevitable.
 
-5. There are lots of empirically established behavior patterns which make real people different from Homo Economicus. At least: procrastination (short-termism), mistakes in estimating risk, empathy (internalizing well-being of others), self-image matters, homo socialis (group perception may affect individual behavior), e.t.c. The reunification of social sciences happen.
+5. **Economics on the move.** There are lots of empirically established behavior patterns which make real people different from Homo Economicus. At least: procrastination (short-termism), mistakes in estimating risk, empathy (internalizing well-being of others), self-image matters, homo socialis (group perception may affect individual behavior), e.t.c. The reunification of social sciences happen.
 
-6. Although one of the government's roles is to fight market failures, state itself has some failure like being captured by special interests at the expense of the collective interest, having reelection as a primary goal etc. With some stretch market and government correct each others failures. Independent agencies are needed to isolate long-term goals and policies from the electoral cycle. When markets are failing, the modern state regulates. It assumes the responsibility for creating equality and opportunity, healthy competition, and a financial system not dependent on bailouts using public money. It finds a way of making economic actors act responsibly with regard to environment, of establishing equality in health insurance coverage, of ensuring protection for employees who do not have an information that would empower them. In its operations it is nimble and reactive. Reforms of the state are possible.
+6. **Toward a modern state.** Although one of the government's roles is to fight market failures, state itself has some failure like being captured by special interests at the expense of the collective interest, having reelection as a primary goal etc. With some stretch market and government correct each others failures. Independent agencies are needed to isolate long-term goals and policies from the electoral cycle. When markets are failing, the modern state regulates. It assumes the responsibility for creating equality and opportunity, healthy competition, and a financial system not dependent on bailouts using public money. It finds a way of making economic actors act responsibly with regard to environment, of establishing equality in health insurance coverage, of ensuring protection for employees who do not have an information that would empower them. In its operations it is nimble and reactive. Reforms of the state are possible.
 
-7. Investor ownership and control are widespread around the world because they win the competition. Corporate social responsibility, socially responsible investment, and fair trade are compatible with a market economy. They represent a response that is both decentralized and partial (because of the free rider problem) to the question of how to provide certain public goods. There will be less of that if the state was truly benevolent and effective.
+7. **The governance and social responsibility of business.** Investor ownership and control are widespread around the world because they win the competition. Corporate social responsibility, socially responsible investment, and fair trade are compatible with a market economy. They represent a response that is both decentralized and partial (because of the free rider problem) to the question of how to provide certain public goods. There will be less of that if the state was truly benevolent and effective.
 
-8. Climate policy failures are the tragedy of commons: economic agents do not internalize the damage they cause by emitting GHGs. The green imperative will be respected if the economic imperative is also respected. Both require a global approach and a pricing mechanism. The solution should be built around universal carbon price mechanism (to avoid leakages) with an independent monitoring infrastructure and negotiations of transfers to developing countries (to keep them in the agreement).
+8. **The climate challenge.** Climate policy failures are the tragedy of commons: economic agents do not internalize the damage they cause by emitting GHGs. The green imperative will be respected if the economic imperative is also respected. Both require a global approach and a pricing mechanism. The solution should be built around universal carbon price mechanism (to avoid leakages) with an independent monitoring infrastructure and negotiations of transfers to developing countries (to keep them in the agreement).
 
-9. Excessive rigidity of institutions creates excessive unemployment and vulnerabilty, and eventually social costs like imperfect matching, conflictual relationships and sense of job insecurity. Employers are not fully accountable for the costs of dismissals. Unemployment benefits shouldn't be funded by the companies who keep employment. The employee, not the job, has to be protected. Courts should play smaller role (everything mostly about France). Main challenges for labor markets: technological change, immigration, public finnces.
+9. **Labor market challenges.** Excessive rigidity of institutions creates excessive unemployment and vulnerabilty, and eventually social costs like imperfect matching, conflictual relationships and sense of job insecurity. Employers are not fully accountable for the costs of dismissals. Unemployment benefits shouldn't be funded by the companies who keep employment. The employee, not the job, has to be protected. Courts should play smaller role (everything mostly about France). Main challenges for labor markets: technological change, immigration, public finnces.
 
-10. Monetary union of EA lacks labor mobility and automatic fiscal transfers. One cannot simultaneously insist on more sovereignty and greater risk sharing. The problem initially emerged as southern countries started loosing competitiveness (on wages) and eventually accumulated too much public and private debt. The way forward for Europe is probably the revision of Maastricht approach, accompanied by limited integration in specific areas using the model of the banking union.
+10. **Europe at the crossroads.** Monetary union of EA lacks labor mobility and automatic fiscal transfers. One cannot simultaneously insist on more sovereignty and greater risk sharing. The problem initially emerged as southern countries started loosing competitiveness (on wages) and eventually accumulated too much public and private debt. The way forward for Europe is probably the revision of Maastricht approach, accompanied by limited integration in specific areas using the model of the banking union.
 
-11. Financial market mediates between badly informed savers and borrowers (big asymmetry) and connects many actors which creates lots of externalities. This is why the heavy regulation is needed.
+11. **What use is finance?** Financial market mediates between badly informed savers and borrowers (big asymmetry) and connects many actors which creates lots of externalities. This is why the heavy regulation is needed.
 
-12. The financial crisis of 2008 happened because of the inadequate regulation and laxity in enforcement + the context had never been so favorable to taking risks. As a result before the downturn there were excessive securitization, excessive maturity transformation and not enough capital. The policy should have been countercyclical rather than procyclical, governements should have helped insure that there was symmetric information between lenders and borrowers about the risks.
+12. **The financial crisis of 2008** happened because of the inadequate regulation and laxity in enforcement + the context had never been so favorable to taking risks. As a result before the downturn there were excessive securitization, excessive maturity transformation and not enough capital. The policy should have been countercyclical rather than procyclical, governements should have helped insure that there was symmetric information between lenders and borrowers about the risks.
 
-13. Even though industrial policies may not be always justified, they will still be introduced. Therefore it is better to at least make them non-harmful (Dani Rodrik): identify the reason for the market failure, use independent experts to choose projects, pay attention to the supply of research, try no to distort competition, evaluate interventions and introduce "sunset clauses", involve private sector in risk-taking (it signals overall viability), bear in mind that the structure of economy is evolving.
+13. **Competition policy and industrial policy.** Even though industrial policies may not be always justified, they will still be introduced. Therefore it is better to at least make them non-harmful (Dani Rodrik): identify the reason for the market failure, use independent experts to choose projects, pay attention to the supply of research, try no to distort competition, evaluate interventions and introduce "sunset clauses", involve private sector in risk-taking (it signals overall viability), bear in mind that the structure of economy is evolving.
 
-14. Marketplaces and digital platforms generate two-sided markets. The provider has to know which side of the market is the most interested in the service (has the lowest elasticity of demand and therefore will pay more without ceasing to consume) and which side brings more value to the other side (externalities). Eventually platform has to have very low prices on the one side, enabling it to grow big and to earn revenue on the other side. Network effects and technological nature of platforms (and therefore higher economies of scale) stimulate their big size and monopolistic positions - therefore usually needs some regulation.
+14. **How digitization is changing everything.** Marketplaces and digital platforms generate two-sided markets. The provider has to know which side of the market is the most interested in the service (has the lowest elasticity of demand and therefore will pay more without ceasing to consume) and which side brings more value to the other side (externalities). Eventually platform has to have very low prices on the one side, enabling it to grow big and to earn revenue on the other side. Network effects and technological nature of platforms (and therefore higher economies of scale) stimulate their big size and monopolistic positions - therefore usually needs some regulation.
 
-15.
+15. **Digital economy: the challenges for society.** Digital revolution presents concerns about trustworthiness of web platforms, data confidentiality, sustaining a healthcare system for all, fears about the destruction of work and greater unemployment (also inequality), and the difficulties involved in implementing an increasingly complex tax system.
 
-16.
+16. **Innovation and intellectual property.**
 
-17.
+17. **Sector regulation.**
 
 
 ## Находки
@@ -192,8 +192,13 @@
 
 **Digital economy: the challenges for society**
 
-60.
+60. Hirshleifer effect: information kills insurance.
 
+**Innovation and intellectual property.**
+
+61.
+
+**Sector regulation.**
 
 
 ## Мои идеи
@@ -210,7 +215,9 @@
 
 6. Коллективная иррациональность - это хрень, просто жаргон для неудачного исхода.
 
-7. 
+7. Существует ои система рейтингов по безопасности управления данными пользователей?
+
+8. 
 
 ## Теги
 
