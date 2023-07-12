@@ -4,7 +4,11 @@
 
 ## Рецензия
 
+Тироль почти в самом начале книги цитирует греческого поэта Архилоха, который делил людей на "лис", знающих много вещей, и "ежей", знающих одну вещь, но самую главную. Книжка в этом смысле совершенно лисья. Это сборник из 17 эссе, описывающих очень разные приложения и болевые точки современной экономики. Для некоторых проблем автор предлагает свои решения, но по большей части книга расширяет наш кругозор в области как раз не до конца решенного: трансформации труда, регулирования финансового рынка, промышленной и климатической политики, интеллектуальных прав и т.д. Учитывая бэкграунд Тироля, ожидаемо, что тематически есть заметное смещение в микроэкономику, но после прочтения, как это ни странно, ощущаешь, что прикоснулся к максимально глобальным вопросам.
 
+Понравилось количество примеров и ссылок, но не понравилось, что 70 страниц сносок спрятано в конец книги - это садизм. Структура заголовков, подзаголовков и выделений в тексте тоже оставляет желать лучшего - форматирование восприятию структуры не помогает совсем (слишком велико разнообразие). 
+
+Думаю, что захочу перечитать текст про плавающую границу морального и аморального - Тироль делает прекрасное наблюдение, что это плохой ориентир для границ рыночных отношений. Да и вообще кажется нужно будет возвращаться - в процессе чтения я выписал 76 фактов, которых до этого не знал, о которых никогда не думал. Обо всем этом конечно надо будет поразмышлять.
 
 ## Основные идеи
 
@@ -38,7 +42,7 @@
 
 15. **Digital economy: the challenges for society.** Digital revolution presents concerns about trustworthiness of web platforms, data confidentiality, sustaining a healthcare system for all, fears about the destruction of work and greater unemployment (also inequality), and the difficulties involved in implementing an increasingly complex tax system.
 
-16. **Innovation and intellectual property.**
+16. **Innovation and intellectual property.** The wealth of nations increasingly depends on their ability to locate at the top of the value chain and value creation - on innovation. Therefore it is very important to create the right stimulus not to hold back the process. Intellectual property is a necessary evil that seeks to stimulate R&D and artistic creation by providing an income to the creator. Patent pools eliminate tragedy of commons, but there are also "bad pools", they raise prices instead of lowering. Open source development is rational because it provides signals about programmers' qualities which they cannot reveal from inside the company usually.
 
 17. **Sector regulation.**
 
@@ -98,7 +102,7 @@
 
 **Toward a modern state**
 
-22. Nice classification of market failure causes: externalities, exchange without full knowledge and consent, buyers become victims of their own actions, exchabge may exceed individual capacities (when continuous relation needs monitoring, for example), excessive market power, market may generate excessive inequality.
+22. Nice classification of market failure causes: externalities, exchange without full knowledge and consent, buyers become victims of their own actions, exchaтge may exceed individual capacities (when continuous relation needs monitoring, for example), excessive market power, market may generate excessive inequality.
 
 23. Example of Sweden's downscaling of the government in the 90s: public expenditure down by 10 pps of GDP, government officials down from 400000 to 250000.
 
@@ -182,7 +186,7 @@
 
 55. The prices of rare secondhand books, for which there is little demand, are often more expensive online, because those who actively search are ready to pay more than those who come across them by chance.
 
-56. Predatry prices (too low) vs abusive prices (too high).
+56. Predatory prices (too low) vs abusive prices (too high).
 
 57. Platforms themselves act as regulators. They encourage competition among sellers, regulate prices, monitor quality and provide information (reputation and recommendation engines), also sometimes provide insurance.
 
@@ -196,9 +200,19 @@
 
 **Innovation and intellectual property.**
 
-61.
+61. FRAND - fair, reasonable and nondiscriminatory terms
+
+62. River transport analogy for patent laws and stimulus.
+
+63. Stage financing - venture capitalist invests new portion after startup meets particular goals.
 
 **Sector regulation.**
+
+64.
+
+65.
+
+66.
 
 
 ## Мои идеи
@@ -232,7 +246,8 @@
 ## Оценка внутри жанра
 
 
-
+10
 
 ## Когда прочел
 
+12.07.2023
