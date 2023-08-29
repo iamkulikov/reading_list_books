@@ -8,6 +8,10 @@
 
 ## 2023
 
+### ["Философствующая фантастика", Валерий Шлыков](reviews/2023_Shlykov_FilosofFantast.md)
+
+### ["Causal inference: the mixtape", Scott Cunnigham](reviews/2023_Cunningham_CausalInferenceMixtape.md)
+
 ### ["Неудобное прошлое", Николай Эппле](reviews/2023_Epple_NeudobnoeProshloe.md)
 
 ### "Пост", Дмитрий Глуховский
