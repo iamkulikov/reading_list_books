@@ -1,4 +1,5 @@
 # "Causal inference: the mixtape", Scott Cunnigham
+https://mixtape.scunning.com/
 
 [<< Все книги](../README.md)
 
@@ -15,7 +16,9 @@
 
 3. Иногда сама выборка (отбор в нее) - это часть причинно-следственной цепи.
 
-4.
+4. Average treatment effect никогда не измерим, а только модет быть оценен с очень спецальными предпосылками, либо рандомизацией treatment-а. Средняя разница в outcome групп по определению раскладывается на  ATE (E[Y1] - E[Y0]) + selection bias (E[Y0|D=1]-E[Y0|D=0]) + heterogeneous treatment effect bias ((1-p)*(ATT-ATU)). Соответственно, даже знак ATE и средней разницы в общем случае отличается.
+
+5. 
 
 
 ## Находки
@@ -28,7 +31,14 @@
 
 4. Так как на вероятность остановки полицией человека может влиять степень подозрений, которые он вызывает, но она же может влиять и на вероятность применения силы, то есть почти неустранимая проблема с оценкой влияния расы на применение силы. Это происходит так как все административные данные самоотбирают случаи, где остановка человека произошла, то есть открывают backdoor path с коллайдером в виде собственно факта остановки. https://jmummolo.scholar.princeton.edu/publications/bias-built-how-administrative-records-mask-racially-biased-policing
 
-5. 
+5. Экономика учит, что наблюдаемые явления часто являются равновесием во взаимодействии агентов, которые что-то ограниченно оптимизируют, а значит чаще всего воздействие чаще всего нельзя назвать независимым от потенциальных результатов.
+
+6. P-value для оценки эффекта воздействия получаем из рандомизации treatment-а. Используем предположение о sharp zero, т.е. все индвидуальные эффекты положим равными нулю. Перетасовываем случайно группы (контрольную и воздействия) и вычисляем статистику (например, разницу между средними значениями), получаем распределение статистики в sharp-zero предпосылках. Сравниваем фактическое значение статистики и полученное распределение - делаем вывод о редкости.
+
+7. Young, Alwyn. 2019. “Chanelling Fisher: Randomization Tests and the Statistical Insignificance of Seemingly Significant Experimental Results.” Quarterly Journal of Economics 134 (2): 557–98.: "With the removal of just one observation, 35% of 0.01-significant reported results in the average paper can be rendered insignificant at that level. Conversely, 16% of 0.01-insignificant reported results can be found to be significant at that level."
+
+8. Young: "In the typical paper, randomization inference found individual treatment effects that were 13 to 22 percent fewer significant results than what the authors’ own analysis had discovered".
+
 
 
 ## Мои идеи
