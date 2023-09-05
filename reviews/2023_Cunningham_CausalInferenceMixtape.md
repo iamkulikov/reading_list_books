@@ -5,7 +5,7 @@ https://mixtape.scunning.com/
 
 ## Рецензия
 
-Пр
+Крутейший учебник по статистической оценке эффектов с причинной интерпретацией - современный по покрытию результатов, с формальными и неформальными цепочками аргументации. Очень понравилось критическое обсуждение исследований, где конкретные методы были ключевым элементом, а вопросы суперактуальны. К игрушечным примерам приведены программы (R, Python, Stata), поэтому крайне легко стартануть со своими данными.
 
 
 ## Основные идеи
@@ -16,9 +16,14 @@ https://mixtape.scunning.com/
 
 3. Иногда сама выборка (отбор в нее) - это часть причинно-следственной цепи.
 
-4. Average treatment effect никогда не измерим, а только модет быть оценен с очень спецальными предпосылками, либо рандомизацией treatment-а. Средняя разница в outcome групп по определению раскладывается на  ATE (E[Y1] - E[Y0]) + selection bias (E[Y0|D=1]-E[Y0|D=0]) + heterogeneous treatment effect bias ((1-p)*(ATT-ATU)). Соответственно, даже знак ATE и средней разницы в общем случае отличается.
+4. Average treatment effect никогда не измерим, а только может быть оценен с очень специальными предпосылками, либо рандомизацией treatment-а. Средняя разница в outcome групп по определению раскладывается на  ATE (E[Y1] - E[Y0]) + selection bias (E[Y0|D=1]-E[Y0|D=0]) + heterogeneous treatment effect bias ((1-p)*(ATT-ATU)). Соответственно, даже знак ATE и средней разницы в общем случае отличается.
 
-5. 
+5. Закрытые backdoor пути ~ выполнена CIA (conditional independence assumption), т.е treatment и outcome независимы, при условии X-ов. Если предположить, что она работает, то контролируем covariates - обычно они все pre-treatment, поэтому экзогенны. Как контролировать? (1) Вычислять эффект в подгруппах (subclasiification по X-ам) и взвешивать его долями соответствующих X в контрольной выборке. Но это быстро натыкается на проклятие размерности. (2) Мэтчить прямо на уровне каждого отдельного объекта из экспериментальной выборки - с ближайшим объектом из контрольной (или взвешенным результатом для нескольких ближайших). Мэтчинг, как правило, неидеальный, поэтому остается смщение в X-ах - для этого есть корректировки, которые асимптотически убирают bias, причем можно увеличивать и контрольную группу только. (3) Использовать оценку вероятности treatment-а, propensity score, чтобы перевзвесить outcome по всем  объектам или смэтчить их по одномерной характеристике (представляет всю нужную инфу из X-ов).
+
+6. 
+
+7.
+
 
 
 ## Находки
@@ -33,12 +38,17 @@ https://mixtape.scunning.com/
 
 5. Экономика учит, что наблюдаемые явления часто являются равновесием во взаимодействии агентов, которые что-то ограниченно оптимизируют, а значит чаще всего воздействие чаще всего нельзя назвать независимым от потенциальных результатов.
 
-6. P-value для оценки эффекта воздействия получаем из рандомизации treatment-а. Используем предположение о sharp zero, т.е. все индвидуальные эффекты положим равными нулю. Перетасовываем случайно группы (контрольную и воздействия) и вычисляем статистику (например, разницу между средними значениями), получаем распределение статистики в sharp-zero предпосылках. Сравниваем фактическое значение статистики и полученное распределение - делаем вывод о редкости.
+6. **Каверзный вопрос на школу.** Статистическая независимость treatment-a и результатов означает, что в каждой из групп (контрольной и экспериментальной) ожидаемые результаты были бы одинаковыми, при условии как наличия воздействия (в обеих группах), так и в случае его отсутствия.
 
-7. Young, Alwyn. 2019. “Chanelling Fisher: Randomization Tests and the Statistical Insignificance of Seemingly Significant Experimental Results.” Quarterly Journal of Economics 134 (2): 557–98.: "With the removal of just one observation, 35% of 0.01-significant reported results in the average paper can be rendered insignificant at that level. Conversely, 16% of 0.01-insignificant reported results can be found to be significant at that level."
+7. P-value для оценки эффекта воздействия получаем из рандомизации treatment-а. Используем предположение о sharp zero, т.е. все индвидуальные эффекты положим равными нулю. Перетасовываем случайно группы (контрольную и воздействия) и вычисляем статистику (например, разницу между средними значениями), получаем распределение статистики в sharp-zero предпосылках. Сравниваем фактическое значение статистики и полученное распределение - делаем вывод о редкости.
 
-8. Young: "In the typical paper, randomization inference found individual treatment effects that were 13 to 22 percent fewer significant results than what the authors’ own analysis had discovered".
+8. Young, Alwyn. 2019. “Chanelling Fisher: Randomization Tests and the Statistical Insignificance of Seemingly Significant Experimental Results.” Quarterly Journal of Economics 134 (2): 557–98.: "With the removal of just one observation, 35% of 0.01-significant reported results in the average paper can be rendered insignificant at that level. Conversely, 16% of 0.01-insignificant reported results can be found to be significant at that level."
 
+9. Young: "In the typical paper, randomization inference found individual treatment effects that were 13 to 22 percent fewer significant results than what the authors’ own analysis had discovered".
+
+10. As such, propensity score matching has not seen as wide adoption among economists as in other nonexperimental methods like regression discontinuity or difference-in-differences. The most common reason given for this is that economists are oftentimes skeptical that CIA can be achieved in any data set—almost as an article of faith. This is because for many applications, economists as a group are usually more concerned about selection on unobservables than they are selection on observables, and as such, they reach for matching methods less often.
+
+11. 
 
 
 ## Мои идеи
