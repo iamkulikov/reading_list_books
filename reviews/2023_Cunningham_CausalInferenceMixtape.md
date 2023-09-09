@@ -5,7 +5,7 @@ https://mixtape.scunning.com/
 
 ## Рецензия
 
-Крутейший учебник по статистической оценке эффектов с причинной интерпретацией - современный по покрытию результатов, с формальными и неформальными цепочками аргументации. Очень понравилось критическое обсуждение исследований, где конкретные методы были ключевым элементом, а вопросы суперактуальны. К игрушечным примерам приведены программы (R, Python, Stata), поэтому крайне легко стартануть со своими данными.
+Крутейший учебник по статистической оценке эффектов с причинной интерпретацией - современный по покрытию результатов, с формальными и неформальными объяснениями, почему все работает. Понравилось критическое обсуждение реальных исследований, где конкретные методы были ключевым элементом + вопросы в них актуальны. К игрушечным примерам приведены программы (R, Python, Stata), поэтому крайне легко стартануть со своими данными. 
 
 
 ## Основные идеи
@@ -18,13 +18,13 @@ https://mixtape.scunning.com/
 
 4. Average treatment effect никогда не измерим, а только может быть оценен с очень специальными предпосылками, либо рандомизацией treatment-а. Средняя разница в outcome групп по определению раскладывается на  ATE (E[Y1] - E[Y0]) + selection bias (E[Y0|D=1]-E[Y0|D=0]) + heterogeneous treatment effect bias ((1-p)*(ATT-ATU)). Соответственно, даже знак ATE и средней разницы в общем случае отличается.
 
-5. Закрытые backdoor пути ~ выполнена CIA (conditional independence assumption), т.е treatment и outcome независимы, при условии X-ов. Если предположить, что она работает, то контролируем covariates - обычно они все pre-treatment, поэтому экзогенны. Как контролировать? (1) Вычислять эффект в подгруппах (subclasiification по X-ам) и взвешивать его долями соответствующих X в контрольной выборке. Но это быстро натыкается на проклятие размерности. (2) Мэтчить прямо на уровне каждого отдельного объекта из экспериментальной выборки - с ближайшим объектом из контрольной (или взвешенным результатом для нескольких ближайших). Мэтчинг, как правило, неидеальный, поэтому остается смщение в X-ах - для этого есть корректировки, которые асимптотически убирают bias, причем можно увеличивать и контрольную группу только. (3) Использовать оценку вероятности treatment-а, propensity score, чтобы перевзвесить outcome по всем  объектам или смэтчить их по одномерной характеристике (представляет всю нужную инфу из X-ов).
+5. Закрытые backdoor пути ~ выполнена CIA (conditional independence assumption), т.е treatment и outcome независимы, при условии X-ов. Если предположить, что она работает, то контролируем covariates - обычно они все pre-treatment, поэтому экзогенны. Как контролировать? (1) Вычислять эффект в подгруппах (subclasiification по X-ам) и взвешивать его долями соответствующих X в контрольной выборке. Но это быстро натыкается на проклятие размерности. (2) Мэтчить прямо на уровне каждого отдельного объекта из экспериментальной выборки - с ближайшим объектом из контрольной (или взвешенным результатом для нескольких ближайших). Мэтчинг, как правило, неидеальный, поэтому остается смщение в X-ах - для этого есть корректировки, которые асимптотически убирают bias, причем можно увеличивать и контрольную группу только. (3) Использовать оценку вероятности treatment-а, propensity score, чтобы перевзвесить outcome по всем объектам или смэтчить их по одномерной характеристике (представляет всю нужную инфу из X-ов).
 
-6. 
+6. Regression discontinuity методы нужны, когда контрольная и экспериментальная выборка не пересекаются по X-ам. Тогда сравниваем близкие к границе выборок объекты, предполагая что на ней меняется только treatment. Получается LATE (local average treatment effect).
 
-7.
+7. Инструментальная переменная позволяет выделить в объясняющей переменной, у которой есть ненаблюдаемый confounder, те колебания, которые с ним не связаны - тем самым оценить настоящий эффект. Должна быть хорошо коррелирована с объясняющей, и (exclusion restriction) никак с confounder-м и пропущенными переменными, ошибкой.
 
-
+8. 
 
 ## Находки
 
@@ -46,9 +46,10 @@ https://mixtape.scunning.com/
 
 9. Young: "In the typical paper, randomization inference found individual treatment effects that were 13 to 22 percent fewer significant results than what the authors’ own analysis had discovered".
 
-10. As such, propensity score matching has not seen as wide adoption among economists as in other nonexperimental methods like regression discontinuity or difference-in-differences. The most common reason given for this is that economists are oftentimes skeptical that CIA can be achieved in any data set—almost as an article of faith. This is because for many applications, economists as a group are usually more concerned about selection on unobservables than they are selection on observables, and as such, they reach for matching methods less often.
+10. As such, propensity score matching has not seen as wide adoption among economists as in other non-experimental methods like regression discontinuity or difference-in-differences. The most common reason given for this is that economists are oftentimes skeptical that CIA can be achieved in any data set—almost as an article of faith. This is because for many applications, economists as a group are usually more concerned about selection on unobservables than they are selection on observables, and as such, they reach for matching methods less often.
 
-11. 
+11. Инструментальная переменная должна ощущаться как странная, непонятно как связанная с объясняемой. Это отражение предпосылки "only through". Пол первых двух детей влияет на вероятность заведения третьего (если одинаковые, то выше), поэтому его можно использовать как инструмент при оценке влияния величины семьи, например, на заработок матери. Цены на метамфетамин -> попадание детей в детский дом.
+
 
 
 ## Мои идеи
