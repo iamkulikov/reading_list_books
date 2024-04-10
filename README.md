@@ -10,6 +10,10 @@
 
 ### "Лингвистическая мозаика", Л. Федорова
 
+### "Предчувствие конца", Д. Барнс
+
+Не очень знаю, что такое сентиментальный роман, но кажется наткнулся на него, сам того не желая. Из любопытного, пожалуй, только наблюдения о мыслях и мотивациях подростков.
+
 ### ["Moonglow", Michael Shabon](reviews/2024_Chabon_Moonglow.md)
 
 "But what if he's lost?" my grandmother said for the thousandth or millionth time. "He isn't lost," Uncle Ray said, issuing the finding that prevailed in the family Talmud. "He knows where he is."
