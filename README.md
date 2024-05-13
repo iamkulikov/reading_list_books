@@ -8,6 +8,10 @@
 
 ## 2024
 
+### [«Кремулятор», Саша Филипенко](reviews/2024_Filipenko_Kremulyator.md)
+
+
+
 ### ["Все, что движется. Прогулки по беспокойной Вселенной", Алексей Семихатов](reviews/2024_Semikhatov_ProgulkiPoVselennoi.md)
 
 ### [Трилогия о докторе Гарине, Владимир Сорокин](reviews/2024_Sorokin_Garin.md)
