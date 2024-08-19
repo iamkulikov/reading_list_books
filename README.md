@@ -8,7 +8,7 @@
 
 ## 2024
 
-### ["ggplot2: Elegant Graphics for Data Analysis (3e)", H. Wickham, D. Navarro, T. Pedersen](2024_WickhamNavarroPedersen_GGplot2Guide.md)
+### ["ggplot2: Elegant Graphics for Data Analysis (3e)", H. Wickham, D. Navarro, T. Pedersen](reviews/2024_WickhamNavarroPedersen_GGplot2Guide.md)
 
 
 

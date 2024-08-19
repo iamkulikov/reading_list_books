@@ -1,10 +1,14 @@
-# Трилогия «Квантовый вор», Ханну Райаниеми
+# "ggplot2: Elegant Graphics for Data Analysis (3e)", H. Wickham, D. Navarro, T. Pedersen
 
 [<< Все книги](../README.md)
+
+[Ссылка на книгу](https://ggplot2-book.org/)
 
 ## Рецензия
 
 Пр
+
+
 
 ## Находки
 
