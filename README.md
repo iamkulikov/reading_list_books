@@ -6,6 +6,14 @@
 
 К интересным еще есть конспект и/или возникшие идеи по ссылке в названии
 
+## 2026
+
+[(Наверх)](#книги)
+
+### ["**This Way Up. When Maps go Wrong (and why it matters**", Mark Cooper-Jones, Jay Foreman](reviews/2026_CooperJonesForeman_ThisWayUp.md)
+
+Ва
+
 ## 2025
 
 [(Наверх)](#книги)
